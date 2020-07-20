@@ -1,13 +1,7 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working at School Of Freelancing
-- 🌱 I’m currently mentoring for Linux
+- 🔭 I’m currently working at schooloffreelancing.com
 - 👯 I’m looking to collaborate on your project
 - 🤔 I’m looking for help from others too
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 📫 Reach me using Telegram @LinuxGun
