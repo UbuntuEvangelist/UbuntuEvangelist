@@ -1,4 +1,4 @@
-### Let's Get To Work Now :rocket:
+### Technical Co-pilot For Linux :rocket:
 
 - 🔭 I’m currently working at schooloffreelancing.com
 - 👯 I’m looking to collaborate on your project
