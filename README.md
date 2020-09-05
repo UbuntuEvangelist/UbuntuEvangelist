@@ -1,6 +1,5 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UbuntuEvangelist&show_icons=true&theme=radical)
 ### Technical Co-pilot For Linux :rocket:
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UbuntuEvangelist&show_icons=true&theme=radical)
 
 <!--
 - 🔭 I’m currently working at schooloffreelancing.com
