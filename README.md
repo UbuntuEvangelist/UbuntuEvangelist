@@ -8,8 +8,7 @@
 - ⚡ Fun fact: Give a man a mask and he will tell you the truth
 - 🙏 As-salamualaykum
 
-### <img src="https://www.transparentpng.com/thumb/anonymous-mask/guy-fawkes-mask-pictures-10.png" width="60px"> Pentesting Platforms
-| **CTF Platforms** | ![TryHackMe] <img src="https://tryhackme-badges.s3.amazonaws.com/LinuxGun.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/LinuxGun.png" alt="TryHackMe">
 
 
 ![Hack The Box](https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=) | 
