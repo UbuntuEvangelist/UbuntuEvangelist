@@ -9,7 +9,7 @@
 - 🙏 As-salamualaykum
 
 ### <img src="https://www.transparentpng.com/thumb/anonymous-mask/guy-fawkes-mask-pictures-10.png" width="60px"> Pentesting Platforms
-| **CTF Platforms** | ![TryHackMe]<script src="https://tryhackme.com/badge/1156390"></script> ![Hack The Box](https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=) | 
+| **CTF Platforms** | ![TryHackMe](https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label=) ![Hack The Box](https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=) | 
 :--- | :---
 | **Bug Bounty** | ![Bugcrowd](https://img.shields.io/static/v1?style=for-the-badge&message=Bugcrowd&color=F26822&logo=Bugcrowd&logoColor=FFFFFF&label=) ![HackerOne](https://img.shields.io/static/v1?style=for-the-badge&message=HackerOne&color=494649&logo=HackerOne&logoColor=FFFFFF&label=) |
 
