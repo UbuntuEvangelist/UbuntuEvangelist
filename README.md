@@ -9,7 +9,7 @@
 - 🥅 2022 Goals: Make more projects
 - ⚡ Fun fact: Give a man a mask and he will tell you the truth
 - 🙏 As-salamualaykum
-- 
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UbuntuEvangelist&show_icons=true&theme=radical)
 
 <!--
