@@ -4,7 +4,7 @@
 - 🔭 I'm currently working only for Linux
 - 🌱 I’m currently learning everything  
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Make more projects
+- 🥅 2022 Goals: complete 1K successfull client projects
 - ⚡ Fun fact: Give a man a mask and he will tell you the truth
 - 🙏 As-salamualaykum
 
