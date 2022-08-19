@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DE37C1&vCenter=true&width=500&height=35&lines=+root@cli:>+whoami_;I'm+Masum+from+Bangladesh+)](http://in.milind.live)
 > Ask Me Anything Goes Linux
 
-- 🔭 I'm currently working only for Linux
-- 🌱 I’m currently learning everything  
+- 🔭 I'm currently working only for Linux projects
+- 🌱 I’m currently learning everything about Linux  
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: complete 1K successfull client projects
 - ⚡ Fun fact: Give a man a mask and he will tell you the truth
